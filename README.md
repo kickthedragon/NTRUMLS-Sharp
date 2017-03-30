@@ -1,9 +1,9 @@
 # NTRUMLS-Sharp
 NTRUMLS C# Wrapper
 
-This wrapper implements an interface with [*NTRUMLS C*] (https://github.com/NTRUOpenSourceProject/NTRUMLS) It is currently under development the documentation is coming soon.
+This wrapper implements an interface with [*NTRUMLS C*](https://github.com/NTRUOpenSourceProject/NTRUMLS) It is currently under development the documentation is coming soon.
 
-This wrapper intends to use only Mono 2.0  libraries to make it compatible with with other software packages such as [*Unity3d*] (http://unity3d.com/).   
+This wrapper intends to use only Mono 2.0  libraries to make it compatible with with other software packages such as [*Unity3d*](http://unity3d.com/).   
 
 ### TODO
 - [x] Generate Keys
@@ -15,11 +15,11 @@ This wrapper intends to use only Mono 2.0  libraries to make it compatible with 
 
 ### NTRUMLS C Source
 
-Download NTRUMLS source [here] (https://github.com/NTRUOpenSourceProject/NTRUMLS)
+Download NTRUMLS source [here](https://github.com/NTRUOpenSourceProject/NTRUMLS)
 
 ### Mono
 
-Download and install latest distribution [here] (http://www.mono-project.com/download/)
+Download and install latest distribution [here](http://www.mono-project.com/download/)
 
 ## Compiling NTRUMLS Shared C Library
 
