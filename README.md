@@ -56,7 +56,7 @@ Coming Soon..
 
 ### ANDROID
 
-Download and Install [Android Studio] (https://developer.android.com/studio/index.html)
+Download and Install [Android Studio](https://developer.android.com/studio/index.html)
 
 Make sure you have the Android NDK installed through the Andriod SDK manager
 
